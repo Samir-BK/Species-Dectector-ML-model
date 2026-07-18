@@ -61,4 +61,4 @@ All three models achieved the same test accuracy (0.96). Errors were consistentl
 
 ## Author
 
-Sam — Software Development student, Haaga-Helia University of Applied Sciences
+Samir B K — Software Development student, Haaga-Helia University of Applied Sciences
