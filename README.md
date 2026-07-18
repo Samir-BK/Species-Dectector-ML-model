@@ -56,8 +56,7 @@ All three models achieved the same test accuracy (0.96). Errors were consistentl
 ## How to Run
 
 1. Install dependencies: `pip install pandas numpy scikit-learn matplotlib`
-2. Place `Iris.csv` in the project directory
-3. Run the notebook cells in order
+2. Run the notebook cells in order
 
 ## Author
 
